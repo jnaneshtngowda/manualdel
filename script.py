@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hi 👋 {},
 
 I'm an advanced filter bot with many capabilities!
 
