@@ -1,34 +1,22 @@
-# Unlimited Filter Bot
+<h2 align="centre">🇮🇳TECHNO MINDZ🇮🇳</h2>
 
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
-  </a>
+<p align="center"><a href="https://t.me/technomindzcht"><img src="https://telegra.ph/file/3845872c5f6d2eee0f53e.jpg" width="300"></a></p>
+
+## Introduction
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
-<p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+</h1>
+<a href="https://www.youtube.com/c/TechnoMindz">
+  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-  </a>
+## SUPPORT
+## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
+## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
+## Contact [OWNER](https://t.me/technomindzyt)
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
-
-## An advanced Filter Bot with nearly unlimitted filters!
-
-
 ### Features
 * Nearly unlimited filters
 * Supports all type of filters(Including Alert Button Filter).
@@ -72,29 +60,15 @@
 * `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
 
 
-## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TMSUPPORT](https://telegram.dog/TECHNOMINDZCHAT)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot)
 
-### Deploy in your vps
-```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
-```
 
 
 ## Configs
@@ -129,19 +103,3 @@ python3 bot.py
 
 * DISCONNECT_COMMAND  -  default will be 'disconnect'
 
-EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
-
-## Credits
-
-<p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://docs.mongodb.com">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
