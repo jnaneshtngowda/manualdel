@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Developer", url="https://t.me/Technokillerbot"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/Tmmainchannel"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/Technomindzchat")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://t.me/Technomindzchat")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
@@ -102,7 +102,7 @@ async def cb_handler(client, query):
                     chat = await client.get_chat(grpid)
                     title = chat.title
                 except:
-                    await query.message.edit_text("Make sure I'm present in your group!!", quote=True)
+                    await query.message.edit_text("Make sure I'm present in your group😒!!", quote=True)
                     return
             else:
                 await query.message.edit_text(
@@ -122,7 +122,7 @@ async def cb_handler(client, query):
         if (st.status == "creator") or (str(userid) in Config.AUTH_USERS):    
             await del_all(query.message, grp_id, title)
         else:
-            await query.answer("You need to be Group Owner or an Auth User to do that!",show_alert=True)
+            await query.answer("You need to be Group Owner or an Auth User to do that😒!",show_alert=True)
     
     elif query.data == "delallcancel":
         userid = query.from_user.id
