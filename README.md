@@ -65,7 +65,6 @@
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
