@@ -64,10 +64,35 @@
 ## Any bugs or errors or suggestions, report at [TMSUPPORT](https://telegram.dog/TECHNOMINDZCHAT)
 
 
-## Installation
-
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot)
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+  ## CREATED BY
+ 
+* [RAVINANDAN](https://t.me/TechnoMINDZYT)
+## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+
+## Support
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/technomindzchat)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Tmmainchannel)
+
+
+
+
+## Thanks to 
+
+ - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](<h2 align="centre">TM Common Bot</h2>
+
 
 
 
