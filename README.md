@@ -71,35 +71,3 @@
 
 
 
-## Configs
-
-* TG_BOT_TOKEN  - Get bot token from @BotFather
-
-* API_ID        - From my.telegram.org (or @UseTGXBot)
-
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
-
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
-
-* DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
-
-* DATABASE_NAME  - Your database name from mongoDB. Default will be 'Cluster0'
-
-* SAVE_USER  -  Give yes or no . Usefull for getting userinfo and total user counts. May reduce filter capacity :( .
-
-* HEROKU_API_KEY  -  To check dyno status. Go to https://dashboard.heroku.com/account , scroll down and press Reveal API
-
-
-### Optional - To set alternate Bot Commmands!
-( *Add required field as heroku var and give desired command as value. You can edit it in sample_config.py also!*)
-
-* ADD_FILTER_CMD  -  default will be 'add'
-
-* DELETE_FILTER_CMD  -  default will be 'del'
-
-* DELETE_ALL_CMD  -  default will be 'delall'
-
-* CONNECT_COMMAND  -  default will be 'connect'
-
-* DISCONNECT_COMMAND  -  default will be 'disconnect'
-
