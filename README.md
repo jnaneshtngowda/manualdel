@@ -90,7 +90,7 @@
 
 ## Thanks to 
 
- - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](<h2 align="centre">TM Common Bot</h2>
+ - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot]
 
 
 
