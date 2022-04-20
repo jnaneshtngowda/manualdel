@@ -1,8 +1,8 @@
-<h2 align="centre">🇮🇳TECHNO MINDZ🇮🇳</h2>
+<h2 align="centre">🎀TECHNO MINDZ🎀</h2>
 
 
 
-<p align="center"><a href="https://t.me/technomindzcht"><img src="https://telegra.ph/file/3845872c5f6d2eee0f53e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/3845872c5f6d2eee0f53e.jpg" width="300"></a></p>
 
 ## Introduction
 
