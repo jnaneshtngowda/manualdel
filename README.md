@@ -1,8 +1,8 @@
-<h2 align="centre">🎀TECHNO MINDZ🎀</h2>
+<h2 align="centre"><i><b>🎀TECHNO MINDZ🎀</i></b></h2>
 
 
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/3845872c5f6d2eee0f53e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="300"></a></p>
 
 ## Introduction
 
@@ -93,7 +93,3 @@
 ## Thanks to 
 
  - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot]
-
-
-
-
