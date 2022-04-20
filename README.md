@@ -33,6 +33,8 @@
 
 * Add your filters :)
 
+## Modal Bot 
+  * [<i><b>@TMBETTERFILTERBOT</i></b>](https://t.me/tmbetterfilterbot)
 
 ## Bot Commands
 
