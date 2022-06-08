@@ -4,22 +4,13 @@ class Script(object):
 
 I'm an advanced filter bot with many capabilities!
 
-<a href="https://t.me/tmmainchannel">1☞𝙅𝙤𝙞𝙣 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡</a>
-
-<a href="https://t.me/technomoviescollection">2☞ 𝙅𝙤𝙞𝙣 𝙈𝙤𝙫𝙞𝙚𝙨 𝙂𝙧𝙤𝙪𝙥</a>
-
-<a href="https://t.me/technomindzchat">3☞ 𝙅𝙤𝙞𝙣 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥</a>
-
-<a href="https://t.me/technoseriescollection">4☞ 𝙅𝙤𝙞𝙣 Series Channel</a>
-
-MADE BY @TechnoKillerBot
 
 See <i>/help</i> for commands and more details.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)\nFor More Details CONTACT HERE @TechnoMindzChat</i>
+<i>Add me as admin in your group and start filtering :)</i>
 
 
 <b>Basic Commands;</b>
@@ -57,16 +48,15 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TMMAINCHANNEL</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : TECHNO MINDZ Filter Bot</b>
 
-⭕️<b>Creater :</b> @Technomindzyt   
+⭕️<b>Creator :</b> <a href="https://t.me/tmmainchannel">꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂</a>   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :</b> Pyrogram 1.0.7
 
 """
