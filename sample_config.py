@@ -49,7 +49,7 @@ class Config(object):
     # To record start time of bot
     BOT_START_TIME = time.time()
     
-    SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 10))
-SELF_DELETE = environ.get('SELF_DELETE', True)
+    SELF_DELETE_SECONDS = int(os.environ.get('SELF_DELETE_SECONDS', 10))
+SELF_DELETE = os.environ.get('SELF_DELETE', True)
 if SELF_DELETE == "True":
     SELF_DELETE = True
